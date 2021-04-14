@@ -1,4 +1,4 @@
-let Steam = require('steam');
+const Steam = require('steam');
 /**
  * Options demo data for login steam
  * @type {{password: string, account_name: string}}
